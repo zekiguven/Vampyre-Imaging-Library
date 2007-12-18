@@ -1,4 +1,4 @@
-{ $Id: ImagingOptions.inc 100 2007-06-28 21:09:52Z galfar $ }
+{ $Id$ }
 
 { Include compiler options }
 {$I CompilerOptions.inc}
